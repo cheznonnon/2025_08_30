@@ -12,6 +12,25 @@
 Change Log
 
 
+2025/08/31
+
+
+BUGFIX
+
+
+	mac/n_txctbox.c
+		screen
+			OLD : blinking sometimes
+			NEW : use CPU usage high mode
+			[!] : currently, I cannot fix
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2025/08/30
 
 
